@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I'm Manel 👋</h1>
+</div>
+<img src="https://imgur.com/a/3hNJQdQ">
 
 <!--
 **ManelCM/ManelCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
