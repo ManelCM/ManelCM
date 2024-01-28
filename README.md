@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Neural Networks and Temporal Series**
 
-- 📫 How to reach me **manelcarrillowk@gmail.com**
+- 📫 How to reach me ** manelcarrillomaillo@gmail.com or manelcarrillowk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
