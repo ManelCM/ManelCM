@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manelcm&label=Profile%20views&color=0e75b6&style=flat" alt="manelcm" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Neural Networks and Temporal Series**
+- 🌱 I’m currently learning **Machine Learning, Neural Networks , AI and NLP
+- **
 
 - 📫 How to reach me ** manelcarrillomaillo@gmail.com or manelcarrillowk@gmail.com**
 
