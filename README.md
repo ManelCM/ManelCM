@@ -115,6 +115,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ManelCM/ManelCM/output/snake.svg" alt="Snake animation" />
+
 
 ###
