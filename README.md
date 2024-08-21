@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Currently diving deeper into:<br><br>- 🤖 Machine Learning and Deep Learning<br>- 📉 Time Series Analysis<br>- 🌐 Other Data Science-related concepts</p>
+<p align="left">- 🤖 Machine Learning and Deep Learning<br>- 📉 Time Series Analysis<br>- 🌐 Other Data Science-related concepts</p>
 
 ###
 
