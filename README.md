@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋 I'm Manel Carrillo</h1> <p align="center"> 📍 Barcelona | 🎓 Computational Mathematics & Data Analytics | 🤖 ML & AI Engineer </p>
 ---
-## 🚀 About Me
+
+###🚀 About Me
 
 - 🎓 **Graduated** in Computational Mathematics and Data Analytics at *Universitat Autònoma de Barcelona (UAB)*.
 - 🔬 **Currently working** at *Zurich Insurances* in the *Advanced Analytics* department, focusing on predictive modeling and machine learning solutions.
@@ -8,7 +9,7 @@
 - 📊 Strong background in **time series analysis, financial modeling, and deep learning**, leveraging mathematical techniques for data-driven decision-making.
 ---
 
-## 🎯 Interests & Focus Areas
+### 🎯 Interests & Focus Areas
 
 - 📊 **Machine Learning & Deep Learning**
 - 🤖 **LLMs, NLP, RAG & AI Agents**
